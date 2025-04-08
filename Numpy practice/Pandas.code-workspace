@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../Pandas"
+		},
+		{
+			"path": "../../Numpy"
+		},
+		{
+			"path": "../../Exploratory Data Analysis"
+		},
+		{
+			"path": "../../Machine Learning"
+		},
+		{
+			"path": "../../Logical Question Python"
+		},
+		{
+			"path": "../../projects"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
